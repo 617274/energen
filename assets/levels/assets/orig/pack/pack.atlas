@@ -1,0 +1,437 @@
+
+pack.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armorollo-liquid-0
+  rotate: false
+  xy: 386, 82
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+armorollo-liquid-1
+  rotate: false
+  xy: 379, 8
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+avatar-stand
+  rotate: false
+  xy: 303, 15
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+beast
+  rotate: false
+  xy: 213, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 122, 2
+  size: 58, 58
+  split: 29, 28, 28, 29
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+box-breakable
+  rotate: false
+  xy: 62, 2
+  size: 58, 58
+  split: 41, 16, 39, 18
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+box-breakable-deposit
+  rotate: false
+  xy: 223, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+box-draggable
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  split: 29, 28, 27, 30
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+canirol-x-1
+  rotate: false
+  xy: 316, 80
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+cannon-x
+  rotate: false
+  xy: 291, 94
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+cannon-y
+  rotate: false
+  xy: 425, 17
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+chamber
+  rotate: false
+  xy: 433, 46
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+chamber-trip-1-off
+  rotate: false
+  xy: 408, 67
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+coals-1
+  rotate: false
+  xy: 232, 6
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+gate-0
+  rotate: false
+  xy: 446, 62
+  size: 8, 35
+  orig: 8, 35
+  offset: 0, 0
+  index: -1
+gem-emerald-1
+  rotate: false
+  xy: 336, 98
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+gem-ruby-1
+  rotate: false
+  xy: 326, 98
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+gem-sapphire-1
+  rotate: false
+  xy: 307, 50
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ice-1
+  rotate: false
+  xy: 182, 6
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+icon-life
+  rotate: false
+  xy: 405, 113
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+knob-1
+  rotate: false
+  xy: 313, 97
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+ladder
+  rotate: false
+  xy: 331, 8
+  size: 19, 50
+  split: 7, 7, 0, 0
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+lava-1
+  rotate: false
+  xy: 257, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lever-1
+  rotate: false
+  xy: 374, 109
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+lift
+  rotate: false
+  xy: 238, 32
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+orben-dormant
+  rotate: false
+  xy: 295, 50
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+pillar
+  rotate: false
+  xy: 134, 62
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+pod-1
+  rotate: false
+  xy: 239, 80
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+pole-1
+  rotate: false
+  xy: 447, 12
+  size: 5, 48
+  orig: 5, 48
+  offset: 0, 0
+  index: -1
+portal-1
+  rotate: false
+  xy: 2, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+powerup-ammo
+  rotate: false
+  xy: 281, 50
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+powerup-cannon
+  rotate: false
+  xy: 298, 82
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+powerup-health
+  rotate: false
+  xy: 377, 62
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+powerup-super
+  rotate: false
+  xy: 276, 80
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+powerup-turbo
+  rotate: false
+  xy: 360, 62
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+protrusion-gas-1
+  rotate: false
+  xy: 406, 10
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+protrusion-liquid-1
+  rotate: false
+  xy: 440, 99
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+protrusion-plasma-1
+  rotate: false
+  xy: 421, 68
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+protrusion-polymer-1
+  rotate: false
+  xy: 338, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+protrusion-solid-1
+  rotate: false
+  xy: 432, 68
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+rollen-polymer-1
+  rotate: false
+  xy: 406, 39
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 459, 26
+  size: 6, 100
+  orig: 6, 100
+  offset: 0, 0
+  index: -1
+sink-1
+  rotate: false
+  xy: 291, 108
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+slick-1
+  rotate: false
+  xy: 189, 76
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+spring-1
+  rotate: false
+  xy: 213, 26
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+suspension-antimatter-1
+  rotate: false
+  xy: 68, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+suspension-gas-1
+  rotate: false
+  xy: 359, 81
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+suspension-liquid-1
+  rotate: false
+  xy: 352, 6
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+suspension-plasma-1
+  rotate: false
+  xy: 379, 35
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+suspension-polymer-1
+  rotate: false
+  xy: 352, 33
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+suspension-solid-1
+  rotate: false
+  xy: 413, 86
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+swoopa-left
+  rotate: false
+  xy: 134, 70
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+swoopa-right
+  rotate: false
+  xy: 134, 99
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+teleport-1
+  rotate: false
+  xy: 247, 50
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+treadmill-1-left
+  rotate: false
+  xy: 321, 60
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+treadmill-1-right
+  rotate: false
+  xy: 335, 108
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+treadmill-trip-1-left-off
+  rotate: false
+  xy: 281, 60
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+trip-1
+  rotate: false
+  xy: 394, 66
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+vines
+  rotate: false
+  xy: 276, 8
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+waves-1
+  rotate: false
+  xy: 189, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+zoomba
+  rotate: false
+  xy: 182, 24
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
