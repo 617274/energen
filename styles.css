@@ -53,4 +53,76 @@ body {
 .note a {
   color: #f02f11;
 }
+
+
+main .target {
+	padding-top: 100px;
 }
+
+.target:before {
+	display: block;
+	content: "";
+	height: 0px;
+	margin-top: 0px;
+}
+
+.accordion {
+	font-size: 18px;
+	text-align: justify;
+	font-family: var(--font-family-content);
+}
+
+.accordion .extensible {
+	display: none;
+}
+
+.accordion .expand, main .accordion .collapse {
+	background-color: inherit;
+	border: none;
+	font-family: var(--font-family-link);
+	font-size: 20px;
+	color: var(--color-secondary-dark);
+}
+
+.accordion .expand:hover, main .accordion .collapse:hover {
+	color: var(--color-accent-light);
+}
+
+.accordion .collapse {
+	display: none;
+}
+
+.accordion .expand:target {
+	display: none;
+}
+
+.accordion .expand:target + .extensible {
+	display: block;
+}
+
+.accordion .expand:target ~ .collapse {
+	display: inline;
+}
+
+.accordion p {
+  	padding-top: 10px;
+}
+
+.accordion article ul {
+	padding-bottom: 10px;
+}
+
+.accordion article p, h4, h5 {
+	text-align: justify;
+}
+
+.accordion article h4 {
+	text-decoration: underline;
+}
+
+a {
+	color: #55aaff !important;
+}
+
+}
+
