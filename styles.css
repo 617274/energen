@@ -54,11 +54,6 @@ body {
   color: #f02f11;
 }
 
-
-main .target {
-	padding-top: 100px;
-}
-
 .target:before {
 	display: block;
 	content: "";
