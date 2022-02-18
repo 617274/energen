@@ -4,7 +4,7 @@ Game demo made with LibGDX and Overlap2D/Hyperlap2D
 
 ### Controls
 
-By game interface buttons, or by QWERTY keyboard. For the latter, schema is below. Toggle control choice by game menu.
+Access controls by on-screen gamepad or by QWERTY keyboard. For the latter choice, schema is below. Toggle control choice by pause screen options menu.
 
 Pause::Enter | Up::W | Down::S | Left::A | Right::D | Thrust::Comma | Reach::Period
 
