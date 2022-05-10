@@ -2,6 +2,11 @@
 
 Game demo made with LibGDX and Overlap2D/Hyperlap2D
 
+* Webpage: https://coded.art/energen
+* Webapp: https://bxcd.github.io/energen
+* Android: https://play.google.com/store/apps/details?id=art.coded.energen
+* Coming soon to iOS
+
 ### Controls
 
 Access controls by on-screen gamepad or by QWERTY keyboard. For the latter choice, schema is below. Toggle control choice by pause screen options menu.
