@@ -4,6 +4,7 @@ Game demo made with LibGDX and Overlap2D/Hyperlap2D
 
 * Webpage: https://coded.art/energen
 * Webapp: https://bxcd.github.io/energen
+* Desktop: https://coded.art/get/energen/pc
 * Android: https://play.google.com/store/apps/details?id=art.coded.energen
 * Coming soon to iOS
 
