@@ -1,6 +1,8 @@
 # energen
 
-Game demo made with LibGDX and Overlap2D/Hyperlap2D
+A multiplatform 2D game demo that combines a retro look and feel with a full range of abilities set in levels that unfold in all directions. 
+
+Made with LibGDX and Overlap2D/Hyperlap2D.
 
 * Webpage: https://coded.art/energen
 * Webapp: https://bxcd.github.io/energen
@@ -8,7 +10,7 @@ Game demo made with LibGDX and Overlap2D/Hyperlap2D
 * Android: https://play.google.com/store/apps/details?id=art.coded.energen
 * Coming soon to iOS
 
-### Controls
+## Controls
 
 Access controls by on-screen gamepad or by QWERTY keyboard. For the latter choice, schema is below. Toggle control choice by pause screen options menu.
 
